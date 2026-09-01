@@ -345,7 +345,7 @@
       s4Text: '재근이 사랑해~💗',
       s4Hint: '하트눌러바 💗',
 
-      s5MainText: '재근이 요즘 행복해',
+      s5MainText: 'ㅎㅎㅎ',
       s5SubText: '하트 눌러봐랏',
       s5Note: '눌러라',
 
